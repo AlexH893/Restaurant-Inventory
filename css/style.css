@@ -1,0 +1,43 @@
+#rContainer 
+{
+	background-color:black;
+	opacity:1;
+}
+
+body {
+	background-attachment:fixed;
+	background-size:contain;
+}
+
+#ContainerRSelect 
+{
+	margin-top:5%;
+	margin-bottom:6%;
+	background-color:White;		
+}
+
+
+footer 
+{
+	color :White;
+	font-size: 16px;
+	margin-top:5%;
+    position: fixed;
+    width: 100%;
+}
+#footerNav
+{
+	background-color: black;
+	color:white;
+	    position: fixed;
+    width: 100%;
+	
+}
+
+#reportHeader 
+{
+	background: #F0ECEB;
+	color: black;
+	margin-top:10%;
+}
+

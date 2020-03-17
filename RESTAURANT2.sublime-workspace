@@ -1,0 +1,300 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dA",
+				"Date_Entered"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"sublime.active_window().new_file().run_command( \"append\", { \"characters\": \"\\n\".join( sorted( sublime.find_resources( \"*.sublime-syntax\" ) + sublime.find_resources( \"*.tmLanguage\" ) ) ) } )"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp64/www/restaurant/DisplayChange.php",
+		"/C/wamp64/www/restaurant/ajax.php",
+		"/C/wamp64/www/restaurant/submit.js",
+		"/C/wamp64/www/restaurant/EnterItems.php",
+		"/C/wamp64/www/restaurant/home.php",
+		"/C/wamp64/www/restaurant/script.js",
+		"/C/Users/Alex/Desktop/restaurant/ajax.php",
+		"/C/Users/Alex/Desktop/restaurant/itemEntry.php",
+		"/C/wamp64/www/restaurant/orders.php",
+		"/C/wamp64/www/restaurant/changeItem.php",
+		"/C/wamp64/www/restaurant/RESTAURANT2.sublime-project",
+		"/C/wamp64/www/restaurant/debug",
+		"/C/wamp64/www/restaurant/Connect.php",
+		"/C/wamp64/www/restaurant/Login.php",
+		"/C/wamp64/www/restaurant/itemEntry.php",
+		"/C/wamp64/www/restaurant/displayItems.php",
+		"/C/wamp64/www/restaurant/Reports-Select.php",
+		"/C/wamp64/www/restaurant/DisplayChange-Inventory.php",
+		"/C/wamp64/www/restaurant/invoices.php",
+		"/C/wamp64/www/pickingApp/home.php",
+		"/C/wamp64/www/pickingApp/getItem.php",
+		"/C/wamp64/www/pickingApp/connect.php",
+		"/C/wamp64/www/pickingApp/styles.css",
+		"/C/wamp64/www/pickingApp/script.php"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"C:\\wamp64\\www\\restaurant"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"} ?>",
+			"err",
+			"must",
+			"category",
+			"item_n",
+			"item_nuim",
+			"echo \"<td>\" . $row[\"Category\"]. \"</td>\";",
+			"item_num",
+			"include",
+			"form",
+			"  <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js\"></script>",
+			"inclu",
+			"include",
+			"Used",
+			"sess",
+			"Quantity",
+			"size",
+			"post",
+			"footer",
+			"succes"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.924585218703,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "RESTAURANT2.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"74":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"85":
+				{
+					"group": 0,
+					"index": 1
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						2,
+						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.924585218703,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

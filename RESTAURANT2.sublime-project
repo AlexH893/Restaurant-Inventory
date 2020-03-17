@@ -1,0 +1,9 @@
+{
+	"settings":
+	{
+		"xdebug":
+		{
+			"url": "http://localhost/restaurant/DisplayChange.php"
+		}
+	}
+}
